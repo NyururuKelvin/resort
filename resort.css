@@ -19,3 +19,36 @@ body{
     background-image: url(./images/cont.jpg);
     background-size: cover;
 }
+.nav {
+    min-width: 320px;
+    margin: 0 auto;
+    padding: 10px 0;
+    margin-right: 0%;
+    position: fixed;
+   }
+  
+   nav>ul{
+    text-align: right;
+  }
+  
+   nav>ul>li{
+    display: inline-block;
+   }
+  
+   nav>ul>li>a {
+    margin-top: 0px;
+    padding: 8px;
+    margin-right: 0;
+    text-transform: uppercase;
+    text-decoration: none;
+    display: block;
+    border: outset 2px white;
+    border-radius: 10px;
+    color: #f10e47;
+   }
+  
+   nav>ul>li>a:hover {
+   box-shadow: 0 0 10px rgba(252, 250, 250, 0.1), inset 0 0 1px rgba(255, 255, 255, 0.6);
+   background: rgb(177, 250, 240);
+   color: rgb(8, 0, 0);
+   }
