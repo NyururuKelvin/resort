@@ -3,3 +3,19 @@ body{
     background-size: cover;
     position: absolute;
 }
+.accm{
+    background-image: url(./images/guest-room-amenity.jpg);
+    background-size: cover;
+}
+.cont{
+    background-image: url(./images/170327131730-beautiful-island-hotels-9-naka-island-2.jpg);
+    background-size: cover;
+}
+.pict{
+    background-image: url(./images/ab2ab7af421a002f9a2a00dc8f799dc0.jpg);
+    background-size: cover;
+}
+.travel{
+    background-image: url(./images/cont.jpg);
+    background-size: cover;
+}
