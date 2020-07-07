@@ -52,3 +52,8 @@ body{
    background: rgb(177, 250, 240);
    color: rgb(8, 0, 0);
    }
+   img{
+       height: 300px;
+       width: 300px;
+       float: left;
+   }
