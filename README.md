@@ -9,6 +9,8 @@ A website of a resort that offers Accomodation, Vacations tours,and hosts local 
 * Different pages for viewing destinations, Accomodations available and galleries
 ## Known Bugs
 No bugs on the website
+## Live Demo
+https://nyururukelvin.github.io/resort/
 ## Technologies Used
 Background images set and styled with Html and Css
 ## Support and contact details
